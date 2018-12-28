@@ -51,11 +51,8 @@ public class Problem_3 {
 			} else if (max.size() < tm.get(i).size()) {
 				max = tm.get(i);
 			}
-//			for (int j : tm.get(i)) {
-//				System.out.print(j+" ");
-//			}
-//			System.out.println();
 		}
+		
 		System.out.println("Longest subsequence has length of: "+max.size());
 		for (int i : max) {
 			System.out.print(i+" ");

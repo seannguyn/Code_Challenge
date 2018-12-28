@@ -31,13 +31,6 @@ public class Problem_1 {
 			}
 		}
 		
-//		Iterator it = tm.entrySet().iterator();
-//		while (it.hasNext()) {
-//			Map.Entry pair = (Map.Entry)it.next();
-//	        System.out.println(pair.getKey() + " = " + pair.getValue());
-//	        it.remove(); // avoids a ConcurrentModificationException
-//		}
-		
 		Iterator it = tm.entrySet().iterator();
 		while (it.hasNext()) {
 			Map.Entry pair = (Map.Entry) it.next();
