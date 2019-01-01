@@ -65,5 +65,6 @@ class Hard_1Test {
 		assertEquals(output.size(),Quad.size());
 		assertTrue(this.compare(output, Quad));
 	}
+	
 
 }
