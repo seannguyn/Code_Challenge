@@ -1,6 +1,6 @@
 package Hard;
 import java.util.*;
-public class Hard_2 {
+public class Hard_3 {
 /*
  * 		Find the largest range in an array. 
  * 		the return result should be, for example: [1,4]

@@ -8,7 +8,7 @@ public class Problem_2 {
  * 
  * 		Graph has a list of node, hashmap of node
  * 		each node has an arraylist of edge, and an associated cost
- */
+ */ 
 	
 	public static void main(String[] args) {
 		System.out.println("Problem 2");

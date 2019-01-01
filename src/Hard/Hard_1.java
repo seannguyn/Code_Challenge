@@ -61,9 +61,7 @@ public class Hard_1 {
 		return finalResult;
 	}
 	
-	public int square(int x) {
-		return x*x;
-	}
+
 	
 	
 }

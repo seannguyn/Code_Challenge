@@ -3,7 +3,7 @@ public class Problem_3 {
 /*
  * 		Find the longest increasing subsequence
  */
-	
+	 
 	public static void main(String[] args) {
 		int[] array_0 = new int[] {3, 10, 2, 1, 20};
 		
