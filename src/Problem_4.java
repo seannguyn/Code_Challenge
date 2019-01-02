@@ -24,7 +24,7 @@ public class Problem_4 {
 	public static void findPair(int [] array, int k) {
 		
 		HashMap hm = new HashMap<Integer, Integer>();
-		
+		 
 		for (int i = 0; i < array.length; i++) {
 			
 			int key = k - array[i];

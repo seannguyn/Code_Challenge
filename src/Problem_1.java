@@ -7,7 +7,7 @@ public class Problem_1 {
 	 * 
 	 * 		Given an array of String, count the occurrence of each word, print the word in alphabetical order
 	 * 
-	 */
+	 */ 
 	
 	public static void main(String[] args) {
 		System.out.println("Problem 1");

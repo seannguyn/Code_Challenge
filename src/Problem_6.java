@@ -9,7 +9,7 @@ public class Problem_6 {
  * 		but is still within the weight limit
  * 
  */
-	
+	 
 		public static void main(String[] args) {
 			int W = 100; 
 	        int val[] = {10, 30, 20}; 

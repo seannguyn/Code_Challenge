@@ -7,7 +7,7 @@ public class Problem_5 {
  * 
  * 
  */
-	
+	 
 	public static void main (String[] args) {
 		int n = 4;
 		int[] m =  new int[] {1,2,3};
